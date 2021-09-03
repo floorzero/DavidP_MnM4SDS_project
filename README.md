@@ -1,1 +1,1 @@
-# David_Project
+# GEOG498G project
